@@ -45,11 +45,11 @@ In the lab segment, **VyOS** routers are configured to simulate and practice rou
 ## 2.1 Configuring the interfaces
 
 To ensure proper network functionality, all interfaces of the respective systems are configured according to the network plan:
-- The **Kali** hosts and the web server are configured by editing the ‘/etc/network/interfaces’ file
-- The **VyOS** routers are configured using the configure command
-- The **OpenNMS** and **Splunk** servers are configured using netplan
-- The **Windows 10** host is configured through the Windows network settings
-- Both **pfSense firewalls** are configured via the web interface
+- The **Kali** hosts and the web server are configured by editing the ‘/etc/network/interfaces’ file.
+- The **VyOS** routers are configured using the configure command.
+- The **OpenNMS** and **Splunk** servers are configured using netplan.
+- The **Windows 10** host is configured through the Windows network settings.
+- Both **pfSense firewalls** are configured via the web interface.
 
 ## 2.2 Routing
 
